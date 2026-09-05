@@ -1,0 +1,20 @@
+# Arduino / ESP32 build artifacts
+**/build/
+build_cam/
+build_motor/
+build_web/
+*.bin
+*.elf
+*.map
+*.hex
+*.o
+*.d
+*.cache
+.last-used
+file_opts
+build_opt.h
+compile_commands.json
+
+# OS files
+Thumbs.db
+desktop.ini
